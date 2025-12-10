@@ -164,8 +164,3 @@ yolov8l.pt  # high accuracy
 * Ensure good lighting for more consistent detection.
 * Adjust polygon coordinates based on your camera angle.
 * The `+1402` baseline is optional; remove if not required.
-
----
-
-
-Just tell me!
